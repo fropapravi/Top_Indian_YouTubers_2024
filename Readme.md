@@ -224,7 +224,6 @@ having
 
 ```
 
-![Condition - 4](photos/condition_4.png)
 
 ## Visualization
 
