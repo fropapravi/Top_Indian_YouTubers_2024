@@ -165,9 +165,6 @@ FROM
     view_youtuber
 ```
 
-
-![Condition - 1](photos/Condition1.png)
-
 ## Column count check
 
 ``` 
@@ -183,7 +180,6 @@ where
 	table_name = 'view_youtuber'
 
 ```
-![Condition - 2](photos/condition 2.png)
 
 ## Data type check
 
@@ -203,7 +199,6 @@ where
 
 ```
 
-![Condition - 3](photos/condition3.png)
 
 ## Duplicate count check
 
@@ -229,7 +224,7 @@ having
 
 ```
 
-![Condition - 4](photos/condition4.png)
+![Condition - 4](photos/condition_4.png)
 
 ## Visualization
 
