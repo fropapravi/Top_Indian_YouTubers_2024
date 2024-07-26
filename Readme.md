@@ -183,7 +183,7 @@ where
 	table_name = 'view_youtuber'
 
 ```
-![Condition - 2](photos/condition2.png)
+![Condition - 2](photos/condition 2.png)
 
 ## Data type check
 
