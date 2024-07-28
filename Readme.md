@@ -1,9 +1,9 @@
-# Data Portfolio: Excel to Power BI
+# Top_Indian_Youtuber_2024_Data Portfolio: Excel to Power BI
 
 ## Objective
 ###### To discover the top performing Indian Youtubers to form marketing collaborations with throughout the year 2024.
 
-###### To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their
+###### To create a dashboard that provides insights into the top Indian YouTubers in 2024 that includes their
 - subscriber count
 - total views
 - engagement metrics
